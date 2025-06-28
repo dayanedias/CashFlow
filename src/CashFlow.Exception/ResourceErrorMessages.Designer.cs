@@ -79,7 +79,7 @@ namespace CashFlow.Exception {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a The amount must be greater than zero..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a The payment type is not valid..
         /// </summary>
         public static string PAYMENT_TYPE_IS_NOT_VALID {
             get {
